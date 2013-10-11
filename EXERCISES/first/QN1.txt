@@ -1,0 +1,4 @@
+Make a calculator program receiving 2 number and add, subtract, multiply or divide according to your choice
+
+input: 2 numbers, choice
+output: a number according to your choice
