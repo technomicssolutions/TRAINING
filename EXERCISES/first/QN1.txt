@@ -2,3 +2,4 @@ Make a calculator program receiving 2 number and add, subtract, multiply or divi
 
 input: 2 numbers, choice
 output: a number according to your choice
+eg: 1 and 2 with choice addition gives 3.
